@@ -19,7 +19,7 @@ To write a program to predict the marks scored by a student using the simple lin
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Adcahayakiruthika M S 
 RegisterNumber:  212223230005
-```
+
 import pandas as pd
 import numpy as py
 import matplotlib.pyplot as plt
@@ -52,7 +52,7 @@ plt.scatter(df['x'],df['y'])
 plt.xlabel('x')
 plt.ylabel('y')
 plt.plot(x_train,lr.predict(x_train),color='red')
-
+```
 ## Output:
 # df.head():
 ![alt text](<ml (1).png>)
