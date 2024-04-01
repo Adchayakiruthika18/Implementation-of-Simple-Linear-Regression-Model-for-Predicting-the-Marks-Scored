@@ -64,7 +64,8 @@ plt.plot(x_train,lr.predict(x_train),color='red')
 ![alt text](<ml (5).png>)
 # Graph:
 ![alt text](<ml (6).png>)
-
+# Coefficient and Intercept Value:
+![coeffficient](https://github.com/Adchayakiruthika18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147139995/3196e6b6-d47e-4531-8580-04c26489d4fe)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
